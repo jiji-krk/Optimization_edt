@@ -1,0 +1,14 @@
+{
+    "group_names": ["DIA1", "DIA2"],
+    "rooms": ["A", "B", "C", "D"],
+    "subjects": ["Maths CM", "Maths TD", "Physique CM", "Physique TD"],
+    "teachers": ["Mme Camila", "Mr Boyer", "Mme Krika"],
+    "teacher_specialties": {
+      "Mme Camila": ["Maths CM", "Maths TD", "Physique CM", "Physique TD"],
+      "Mr Boyer": ["Maths CM", "Maths TD", "Info CM", "Info TD"],
+      "Mme Krika": ["Physique CM", "Physique TD"]
+    },
+    "periods_per_day": 4,
+    "days_per_week": 5
+  }
+  
