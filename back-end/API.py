@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from app import university_scheduling, determine_course_type  # Assurez-vous que determine_course_type est importé
+from app import university_scheduling, determine_course_type  
 from flask_cors import CORS
 
 app = Flask(__name__)
