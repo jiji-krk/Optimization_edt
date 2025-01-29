@@ -73,6 +73,7 @@ The API provides:
 This modular system provides a robust solution for university timetable optimization. The integration of React Native, Flask, and OR-Tools makes it adaptable to various scheduling scenarios. The model can also be extended for more complex use cases.
 
 
-![Uploading BOYER Hugo, KRIKA Camila, KRIKA Jinane (2).png…]()
+![BOYER Hugo, KRIKA Camila, KRIKA Jinane (2)](https://github.com/user-attachments/assets/f5fed1de-15f7-4255-ab7d-381c31c38cae)
+
 
 
